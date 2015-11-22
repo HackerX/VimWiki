@@ -5,15 +5,14 @@
 
 ## 选择
 
-| 分类        | 名称         | 平台  | 描述                          |
-|-------------|--------------|-------|-------------------------------|
-| Linux发行版 | Arch Linux   | Linux |                               |
-| 编程语言    | Python       | All   |                               |
-| 编辑器      | VIM          | All   |                               |
-| 文件管理器  | Ranger       | Linux | VIM风格的文件管理器           |
-| PDF阅读器   | MuPDF        | All   | VIM风格的PDF阅读器            |
-| 浏览器      | Firefox      | All   |                               |
-| 播放器      | Mplayer、VLC | All   |                               |
+| 分类       | 名称       | 平台  | 描述                |
+|------------|------------|-------|---------------------|
+| Linux      | Arch Linux | Linux |                     |
+| 编辑器     | VIM        | All   |                     |
+| 文件管理器 | Ranger     | Linux | VIM风格的文件管理器 |
+| PDF阅读器  | MuPDF      | All   | VIM风格的PDF阅读器  |
+| 浏览器     | Firefox    | All   |                     |
+| 播放器     | Mplayer    | All   |                     |
 
 # Python
 ### 多维列表指定列排序
