@@ -25,7 +25,7 @@ opkg install luci
 
 ### shadowsock
 
-opkg install shadowsocks-libev
+`opkg install shadowsocks-libev`
 
 加密模式优先选择`aes-256-cfb`
 
